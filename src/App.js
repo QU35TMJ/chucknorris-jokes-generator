@@ -43,11 +43,7 @@ function App() {
             <option value="random" selected>
               random
             </option>
-            {categories.map(category => (
-              <option key={category} value={category}>
-                {category}
-              </option>
-            ))}
+           
           </select>
           
       <p>{joke}</p>
