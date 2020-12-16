@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/QU35TMJ/chucknorris-jokes-generator/static/css/main.7dbdfbf5.chunk.css",
-    "main.js": "/QU35TMJ/chucknorris-jokes-generator/static/js/main.daebc341.chunk.js",
-    "main.js.map": "/QU35TMJ/chucknorris-jokes-generator/static/js/main.daebc341.chunk.js.map",
-    "runtime-main.js": "/QU35TMJ/chucknorris-jokes-generator/static/js/runtime-main.2b050de9.js",
-    "runtime-main.js.map": "/QU35TMJ/chucknorris-jokes-generator/static/js/runtime-main.2b050de9.js.map",
-    "static/js/2.1a32c4ce.chunk.js": "/QU35TMJ/chucknorris-jokes-generator/static/js/2.1a32c4ce.chunk.js",
-    "static/js/2.1a32c4ce.chunk.js.map": "/QU35TMJ/chucknorris-jokes-generator/static/js/2.1a32c4ce.chunk.js.map",
-    "index.html": "/QU35TMJ/chucknorris-jokes-generator/index.html",
-    "static/css/main.7dbdfbf5.chunk.css.map": "/QU35TMJ/chucknorris-jokes-generator/static/css/main.7dbdfbf5.chunk.css.map",
-    "static/js/2.1a32c4ce.chunk.js.LICENSE.txt": "/QU35TMJ/chucknorris-jokes-generator/static/js/2.1a32c4ce.chunk.js.LICENSE.txt"
+    "main.css": "/chucknorris-jokes-generator/static/css/main.7dbdfbf5.chunk.css",
+    "main.js": "/chucknorris-jokes-generator/static/js/main.daebc341.chunk.js",
+    "main.js.map": "/chucknorris-jokes-generator/static/js/main.daebc341.chunk.js.map",
+    "runtime-main.js": "/chucknorris-jokes-generator/static/js/runtime-main.0740d08b.js",
+    "runtime-main.js.map": "/chucknorris-jokes-generator/static/js/runtime-main.0740d08b.js.map",
+    "static/js/2.1a32c4ce.chunk.js": "/chucknorris-jokes-generator/static/js/2.1a32c4ce.chunk.js",
+    "static/js/2.1a32c4ce.chunk.js.map": "/chucknorris-jokes-generator/static/js/2.1a32c4ce.chunk.js.map",
+    "index.html": "/chucknorris-jokes-generator/index.html",
+    "static/css/main.7dbdfbf5.chunk.css.map": "/chucknorris-jokes-generator/static/css/main.7dbdfbf5.chunk.css.map",
+    "static/js/2.1a32c4ce.chunk.js.LICENSE.txt": "/chucknorris-jokes-generator/static/js/2.1a32c4ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b050de9.js",
+    "static/js/runtime-main.0740d08b.js",
     "static/js/2.1a32c4ce.chunk.js",
     "static/css/main.7dbdfbf5.chunk.css",
     "static/js/main.daebc341.chunk.js"
