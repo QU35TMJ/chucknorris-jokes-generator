@@ -18,7 +18,7 @@ function App() {
 
   const GenerateJoke = () => {
     let url;
-    if (category == "random") {
+    if (category === "random") {
       url = "https://api.chucknorris.io/jokes/random";
     } else {
       url = `https://api.chucknorris.io/jokes/random?category=${category}`;
